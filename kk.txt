@@ -345,17 +345,16 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 海南卫视,http://61.184.46.85:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 福建东南卫视,http://61.184.46.85:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 555频限,#genre#
+中天新闻,http://rihou.cc:555/tv/[Hk]中天新聞
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://rihou.cc:555/tv/Bpjt-中天新闻
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
-中天新闻,http://free.cnlive.club/channel/41d8a09d.m3u8
 寰宇新闻,http://free.cnlive.club/channel/n43c34be8.m3u8
 台视新闻,http://free.cnlive.club/channel/452d9d57.m3u8
 东森新闻,http://free.cnlive.club/channel/n88aa83.m3u8
-中天新闻,http://dungou.szius.com:8080/live/yifatv-ztxw01.flv
-中天新闻,http://rihou.cc:555/tv/Bpjt-中天新闻
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 环宇新闻台,http://rihou.cc:555/tv/Bpjt-环宇新闻
 tvbS HD,http://rihou.cc:555/tv/Bpjt-TVBS
+
 
 有线新闻欣赏,http://rihou.cc:555/tv/[Mt]有线新闻
 有线新闻欣赏,http://rihou.cc:555/tv/[FY]有线新闻
@@ -471,16 +470,7 @@ Sports3'风云,http://iptv.4666888.xyz/iptv2A.php?id=3
 无线新闻,http://r.jdshipin.com/CkuBd
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB星河,http://r.jdshipin.com/Voac4
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰香港,http://r.jdshipin.com/yDoTN
-澳视澳门,http://r.jdshipin.com/n2YZI
-
-
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
 无线新闻,http://hls.168.us.kg/u/83/master.m3u8
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
@@ -493,40 +483,24 @@ pₒₚc电影,http://hls-pull-wicketpw.speedws.com/live/SbH33ezfSdsOpaI2kqwSFjo
 Plus即时频道,https://vdm6hw.nbgdsygs.com/live/h62.flv
 Plus即时频道,https://vdm6ali.wujiekeji1.com/live/h62.flv
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
-myTV SUPER 18,http://bxtv.3a.ink/api.php?id=18
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-明珠,http://bxtv.3a.ink/api.php?id=mz
-無線新聞,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影,http://bxtv.3a.ink/api.php?id=meiya
-千禧經典,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠,http://bxtv.3a.ink/api.php?id=fct
-鳳凰衛視中文,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港,http://bxtv.3a.ink/api.php?id=fhhk
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
 POPC,http://bxtv.3a.ink/api.php?id=popc
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
-翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 Now新闻,http://cdn.163189.xyz/163189/now 
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB娱乐新闻,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+
 
 Plus综合,http://hls.168.us.kg/u/82/master.m3u8
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
@@ -561,33 +535,29 @@ VIUTV'粤,https://cdn.163189.xyz/163189/viu
 
 
 特湾频道,#genre#
-中視新聞,http://210.61.15.55:50007/4gtv-4gtv074/index.m3u8?proxy=true
-中天新聞,http://210.61.15.55:50007/4gtv-4gtv009/index.m3u8?proxy=true
-民視第一,http://210.61.15.55:50007/4gtv-4gtv003/index.m3u8?proxy=true
-民視灣,http://210.61.15.55:50007/4gtv-4gtv001/index.m3u8?proxy=true
-民視HD,http://210.61.15.55:50007/4gtv-4gtv002/index.m3u8?proxy=true
-大愛電視,http://210.61.15.55:50007/4gtv-live007/index.m3u8?proxy=true
-中視,http://210.61.15.55:50007/4gtv-4gtv040/index.m3u8?proxy=true
-華視,http://210.61.15.55:50007/4gtv-4gtv041/index.m3u8?proxy=true
-三立綜合合,http://210.61.15.55:50007/4gtv-live207/index.m3u8?proxy=true
-客家電視,http://210.61.15.55:50007/4gtv-4gtv043/index.m3u8?proxy=true
-中視菁采,http://210.61.15.55:50007/4gtv-4gtv064/index.m3u8?proxy=true
+中天新闻Hktv,http://rihou.cc:555/tv/[Hk]中天新聞
+寰宇新闻Hktv,http://rihou.cc:555/tv/[Hk]寰宇新闻
+东森新闻Hktv,http://rihou.cc:555/tv/[Hk]东森新闻
+中视新闻Hktv,http://rihou.cc:555/tv/[Hk]中视新闻
+年代新闻Hktv,http://rihou.cc:555/tv/[Hk]年代新闻
+tvbS闽南Hktv,http://rihou.cc:555/tv/[Hk]tvbS南闽
+Now华剧Hktv,http://rihou.cc:555/tv/[Hk]Now华剧
+Now剧集Hktv,http://rihou.cc:555/tv/[Hk]Now剧集
+Now紫金Hktv,http://rihou.cc:555/tv/[Hk]Now紫金
+Now星影国hk,http://rihou.cc:555/tv/[Hk]Now星影
+Now爆谷国hk,http://rihou.cc:555/tv/[Hk]Now爆谷
+pₒₚc电影Hktv,http://rihou.cc:555/tv/[Hk]pₒₚc电影
+美亚电影Hktv,http://rihou.cc:555/tv/[Hk]美亚电影
+无线功夫国hk,http://rihou.cc:555/tv/[Hk]无线功夫
+无线星河国hk,http://rihou.cc:555/tv/[Hk]无线星河
+无线生活Hktv,http://rihou.cc:555/tv/[Hk]无线生活
+HUB娱家Hktv,http://rihou.cc:555/tv/[Hk]HUB娱家
+HUB都会Hktv,http://rihou.cc:555/tv/[Hk]HUB都会
+星空卫视Hktv,http://rihou.cc:555/tv/[Hk]星空卫视
+动物星球Hktv,http://rihou.cc:555/tv/[Hk]动物星球
 
-民視第一,http://210.61.15.55:50007/li-4gtv-4gtv003/index.m3u8?proxy=true
-民視灣,http://210.61.15.55:50007/li-4gtv-4gtv001/index.m3u8?proxy=true
-中視,http://210.61.15.55:50007/li-4gtv-4gtv040/index.m3u8?proxy=true
-華視,http://210.61.15.55:50007/li-4gtv-4gtv041/index.m3u8?proxy=true
-中天亞洲,http://210.61.15.55:50007/4gtv-4gtv109/index.m3u8?proxy=true
-三立綜合合,http://210.61.15.55:50007/4gtv-live207/index.m3u8?proxy=true
-客家電視,http://210.61.15.55:50007/4gtv-4gtv043/index.m3u8?proxy=true
-中視菁采,http://210.61.15.55:50007/li-4gtv-4gtv064/index.m3u8?proxy=true
-靖天綜合,http://210.61.15.55:50007/4gtv-4gtv046/index.m3u8?proxy=true
-Arirang TV,http://210.61.15.55:50007/li-4gtv-4gtv079/index.m3u8?proxy=true
-TVBS HD,http://210.61.15.55:50007/li-4gtv-4gtv073/index.m3u8?proxy=true
-靖天育樂,http://210.61.15.55:50007/li-4gtv-4gtv062/index.m3u8?proxy=true
-靖天國際,http://210.61.15.55:50007/li-4gtv-4gtv063/index.m3u8?proxy=true
-靖天歡樂,http://210.61.15.55:50007/li-4gtv-4gtv054/index.m3u8?proxy=true
-靖天資訊,http://210.61.15.55:50007/li-4gtv-4gtv065/index.m3u8?proxy=true
+
+
 
 
 
