@@ -164,14 +164,14 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 卫视频道,#genre#
 快乐垂钓,http://cards.imwork.net:15893/udp/239.3.1.164:8001
-快乐垂钓,http://www.155895.xyz:1234/961930263
+快乐垂钓,http://182.35.193.14:1234/961930263
+快乐垂钓,http://14.103.143.203:5006/961930263
 
+快乐垂钓,http://115.190.255.140:1234/961930263
+四海钓鱼,http://115.190.255.140:1234/637444975
+四海钓鱼,http://182.35.193.14:1234/637444975
+四海钓鱼,http://14.103.143.203:5006/637444975
 
-
-快乐垂钓,
-四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
-四海钓鱼,http://www.155895.xyz:1234/637444975
-四海钓鱼,http://118.79.19.24:7000/rtp/226.0.2.123:8896
 
 
 北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
@@ -198,7 +198,6 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
 
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 
 浙江卫视,http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
 江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
@@ -226,6 +225,7 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 新疆卫视,http://39.152.103.17:8089/tsfile/live/1087_1.m3u8
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
 
+湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
@@ -346,6 +346,7 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 福建东南卫视,http://61.184.46.85:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 
 555频限,#genre#
+中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://156.238.248.80/ztxw.index.m3u8
 
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
@@ -447,7 +448,7 @@ Astro欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
 
 
 频推,#genre#
-Plus即时频道,https://vdm6hw.nbgdsygs.com/live/h62.flv
+Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVBPlus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9wia9K&tk=inWducl7RAaR
 Now体育台,http://hls.168.us.kg/u/630/master.m3u8
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
@@ -659,70 +660,6 @@ Astroaod,http://rihou.cc:555/tv/[PL]Astroaod
 
 
 
-P2P特闽,#genre#
-
-
-Now新闻,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
-无线新闻,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
-无线生活,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
-无线娱乐,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
-无线星河,P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
-无线千禧,P2p://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
-无线功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
-无线粤片,P2p://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
-无线戏曲,P2p://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
-无线亚剧,P2p://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
-无线少儿,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
-黄金翡翠,P2p://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
-无线赛马,P2p://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
-有线赛马,P2p://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
-澳门莲花,P2p://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
-星空卫视,P2p://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
-天映经典,P2p://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
-pₒₚc电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
-美亚电影,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
-龙华电影,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
-私人影院,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
-爱奇艺综,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
-八度空间,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
-Ftv_城市,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
-Ftv1时代东,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
-Ftv1时代西,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
-Ftv2时代,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
-thrill电影,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
-中天亚洲,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
-中视经典,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
-民视第一,P2p://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
-民视闽语,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
-台视财经,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
-台视综合,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
-寰宇闽南,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
-tvbs亚洲,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
-tvbs精采,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
-龙华偶像,P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
-龙华戏剧,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
-采昌影剧,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
-数位电影,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
-壹电影'tv,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
-靖天电影,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
-靖天戏剧,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
-靖天映画,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
-靖天资讯,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
-靖天综合,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
-靖天国际,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
-靖天日本,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
-靖天育乐,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
-ELta影剧,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
-EYE戏剧,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
-SMARt知识,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
-韩国娱乐,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
-三立戏剧,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
-三立综合,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
-纬来精采,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
-壹综合'tv,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
-靖洋戏剧,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
-中视菁采,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
-八大优频,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 
 
 
@@ -768,8 +705,6 @@ SMARt知识,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 咪咕直播29,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
 咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
 
-
-咪视界ys,#genre#
 咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
 咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3%24
 咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3%24
@@ -779,6 +714,73 @@ SMARt知识,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3%24
 咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
 咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
+
+马来频道,#genre#
+Astro AEC,http://hls.sohu.blog/my.php?id=1
+Al-Hijrah,http://hls.sohu.blog/my.php?id=2
+Animal Planet (Eng),http://hls.sohu.blog/my.php?id=3
+AOD,http://hls.sohu.blog/my.php?id=4
+Astro Awani,http://hls.sohu.blog/my.php?id=5
+Astro Ceria,http://hls.sohu.blog/my.php?id=6
+Astro Citra,http://hls.sohu.blog/my.php?id=7
+Astrol Kplus,http://hls.sohu.blog/my.php?id=8
+Astro LOL,http://hls.sohu.blog/my.php?id=9
+Astro MTV,http://hls.sohu.blog/my.php?id=10
+Astro Oasis,http://hls.sohu.blog/my.php?id=11
+Astro Prima,http://hls.sohu.blog/my.php?id=12
+Astro QJ,http://hls.sohu.blog/my.php?id=13
+Astro Ria,http://hls.sohu.blog/my.php?id=14
+Astro Ria-3,http://hls.sohu.blog/my.php?id=15
+Astro Rusi,http://hls.sohu.blog/my.php?id=16
+Aura,http://hls.sohu.blog/my.php?id=17
+Axn HD,http://hls.sohu.blog/my.php?id=18
+BBC World News,http://hls.sohu.blog/my.php?id=19
+Bernama,http://hls.sohu.blog/my.php?id=20
+Bloomberg News,http://hls.sohu.blog/my.php?id=21
+Celestial Classic,http://hls.sohu.blog/my.php?id=22
+Celestial Movies HD,http://hls.sohu.blog/my.php?id=23
+CNA,http://hls.sohu.blog/my.php?id=24
+CNBC,http://hls.sohu.blog/my.php?id=25
+Awesome TV,http://hls.sohu.blog/my.php?id=26
+Dreamworks,http://hls.sohu.blog/my.php?id=27
+Foodnetwork Hd,http://hls.sohu.blog/my.php?id=28
+HGTV,http://hls.sohu.blog/my.php?id=29
+HBO HD,http://hls.sohu.blog/my.php?id=30
+HBO Family,http://hls.sohu.blog/my.php?id=31
+HBO Hits,http://hls.sohu.blog/my.php?id=32
+HBO Signature,http://hls.sohu.blog/my.php?id=33
+Hua Hee Tai欢喜台,http://hls.sohu.blog/my.php?id=34
+iQiyi,http://hls.sohu.blog/my.php?id=35
+Nick Jr,http://hls.sohu.blog/my.php?id=36
+Nickelodeon,http://hls.sohu.blog/my.php?id=37
+NTV7,http://hls.sohu.blog/my.php?id=38
+Paramount Network,http://hls.sohu.blog/my.php?id=39
+Quran,http://hls.sohu.blog/my.php?id=40
+Rania,http://hls.sohu.blog/my.php?id=41
+Rock Actions,http://hls.sohu.blog/my.php?id=42
+Rock Entertainment,http://hls.sohu.blog/my.php?id=43
+RTM Asean,http://hls.sohu.blog/my.php?id=44
+Sensasi,http://hls.sohu.blog/my.php?id=45
+Sony HD,http://hls.sohu.blog/my.php?id=46
+Siar,http://hls.sohu.blog/my.php?id=47
+Showcase,http://hls.sohu.blog/my.php?id=48
+Sunnah,http://hls.sohu.blog/my.php?id=49
+TLC,http://hls.sohu.blog/my.php?id=50
+TV1,http://hls.sohu.blog/my.php?id=51
+TV2,http://hls.sohu.blog/my.php?id=52
+TV3,http://hls.sohu.blog/my.php?id=53
+TV3 SD,http://hls.sohu.blog/my.php?id=54
+TV5,http://hls.sohu.blog/my.php?id=55
+8TV八度空间,http://hls.sohu.blog/my.php?id=56
+V9,http://hls.sohu.blog/my.php?id=57
+TvN,http://hls.sohu.blog/my.php?id=58
+TVB Asia,http://hls.sohu.blog/my.php?id=59
+TVB Classic,http://hls.sohu.blog/my.php?id=60
+TVB Entertainment,http://hls.sohu.blog/my.php?id=61
+Wah Lai Toi华丽台,http://hls.sohu.blog/my.php?id=62
+WION,http://hls.sohu.blog/my.php?id=63
+Xing He,http://hls.sohu.blog/my.php?id=64
+
 
 海外TV,#genre#
 SportsGrid,https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
@@ -965,6 +967,81 @@ CCTV15音乐,http://123.129.70.178:9901/tsfile/live/0015_1.m3u8?key=txiptv&playl
 IPTV经典电影,http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 电信央视频道,#genre#
+CCTV1 高清,http://9.zubo.cc.cd/handz.php?id=1066
+CCTV2 高清,http://9.zubo.cc.cd/handz.php?id=1067
+CCTV3 高清,http://9.zubo.cc.cd/handz.php?id=1068
+CCTV4 高清,http://9.zubo.cc.cd/handz.php?id=1069
+CCTV5 高清,http://9.zubo.cc.cd/handz.php?id=1070
+CCTV6 高清,http://9.zubo.cc.cd/handz.php?id=1071
+CCTV7 高清,http://9.zubo.cc.cd/handz.php?id=1072
+CCTV8 高清,http://9.zubo.cc.cd/handz.php?id=1073
+CCTV9 高清,http://9.zubo.cc.cd/handz.php?id=1074
+CCTV10 高清,http://9.zubo.cc.cd/handz.php?id=1075
+CCTV11 高清,http://9.zubo.cc.cd/handz.php?id=1076
+CCTV12 高清,http://9.zubo.cc.cd/handz.php?id=1077
+CCTV13 高清,http://9.zubo.cc.cd/handz.php?id=1078
+CCTV14 高清,http://9.zubo.cc.cd/handz.php?id=1079
+CCTV15 高清,http://9.zubo.cc.cd/handz.php?id=1080
+CCTV16 高清,http://9.zubo.cc.cd/handz.php?id=1081
+CCTV17 高清,http://9.zubo.cc.cd/handz.php?id=1082
+CCTV5+ 高清,http://9.zubo.cc.cd/handz.php?id=1083
+中国天气,http://9.zubo.cc.cd/handz.php?id=1016
+三亚,http://9.zubo.cc.cd/handz.php?id=1064
+海南少儿 高清,http://9.zubo.cc.cd/handz.php?id=1065
+儋州台,http://9.zubo.cc.cd/handz.php?id=1017
+洋浦,http://9.zubo.cc.cd/handz.php?id=1018
+海南卫视 高清,http://9.zubo.cc.cd/handz.php?id=1020
+海南自贸 高清,http://9.zubo.cc.cd/handz.php?id=1021
+海南社会与法 高清,http://9.zubo.cc.cd/handz.php?id=1022
+海南新闻 高清,http://9.zubo.cc.cd/handz.php?id=1023
+海南文旅 高清,http://9.zubo.cc.cd/handz.php?id=1024
+三沙卫视 高清,http://9.zubo.cc.cd/handz.php?id=1025
+海口1台,http://9.zubo.cc.cd/handz.php?id=1026
+湖南卫视,http://9.zubo.cc.cd/handz.php?id=1027
+东方卫视,http://9.zubo.cc.cd/handz.php?id=1028
+江苏卫视,http://9.zubo.cc.cd/handz.php?id=1029
+浙江卫视,http://9.zubo.cc.cd/handz.php?id=1030
+湖北卫视,http://9.zubo.cc.cd/handz.php?id=1031
+北京卫视,http://9.zubo.cc.cd/handz.php?id=1032
+天津卫视,http://9.zubo.cc.cd/handz.php?id=1033
+河北卫视,http://9.zubo.cc.cd/handz.php?id=1034
+安徽卫视,http://9.zubo.cc.cd/handz.php?id=1035
+山东卫视,http://9.zubo.cc.cd/handz.php?id=1036
+山西卫视,http://9.zubo.cc.cd/handz.php?id=1037
+甘肃卫视,http://9.zubo.cc.cd/handz.php?id=1038
+江西卫视,http://9.zubo.cc.cd/handz.php?id=1039
+宁夏卫视,http://9.zubo.cc.cd/handz.php?id=1040
+吉林卫视,http://9.zubo.cc.cd/handz.php?id=1041
+陕西卫视,http://9.zubo.cc.cd/handz.php?id=1042
+广西卫视,http://9.zubo.cc.cd/handz.php?id=1043
+厦门卫视,http://9.zubo.cc.cd/handz.php?id=1044
+青海卫视,http://9.zubo.cc.cd/handz.php?id=1045
+西藏卫视,http://9.zubo.cc.cd/handz.php?id=1046
+云南卫视,http://9.zubo.cc.cd/handz.php?id=1047
+山东教育卫视,http://9.zubo.cc.cd/handz.php?id=1048
+河南卫视,http://9.zubo.cc.cd/handz.php?id=1049
+兵团卫视,http://9.zubo.cc.cd/handz.php?id=1050
+内蒙古卫视,http://9.zubo.cc.cd/handz.php?id=1051
+新疆卫视,http://9.zubo.cc.cd/handz.php?id=1052
+四川卫视,http://9.zubo.cc.cd/handz.php?id=1053
+湖南卫视 高清,http://9.zubo.cc.cd/handz.php?id=1084
+东方卫视 高清,http://9.zubo.cc.cd/handz.php?id=1085
+江苏卫视 高清,http://9.zubo.cc.cd/handz.php?id=1086
+浙江卫视 高清,http://9.zubo.cc.cd/handz.php?id=1087
+湖北卫视 高清,http://9.zubo.cc.cd/handz.php?id=1088
+北京卫视 高清,http://9.zubo.cc.cd/handz.php?id=1089
+天津卫视 高清,http://9.zubo.cc.cd/handz.php?id=1090
+河北卫视 高清,http://9.zubo.cc.cd/handz.php?id=1091
+安徽卫视 高清,http://9.zubo.cc.cd/handz.php?id=1092
+重庆卫视 高清,http://9.zubo.cc.cd/handz.php?id=1093
+黑龙江卫视 高清,http://9.zubo.cc.cd/handz.php?id=1094
+深圳卫视 高清,http://9.zubo.cc.cd/handz.php?id=1095
+广东卫视 高清,http://9.zubo.cc.cd/handz.php?id=1096
+辽宁卫视 高清,http://9.zubo.cc.cd/handz.php?id=1097
+山东卫视 高清,http://9.zubo.cc.cd/handz.php?id=1098
+东南卫视 高清,http://9.zubo.cc.cd/handz.php?id=1099
+贵州卫视 高清,http://9.zubo.cc.cd/handz.php?id=1100
+
 ctv01,http://cctv.sohu.blog/hls/cctv1.m3u8
 cctv02,http://cctv.sohu.blog/hls/cctv2.m3u8
 cctv03,http://cctv.sohu.blog/hls/cctv3.m3u8
@@ -1041,232 +1118,3 @@ CCTV17,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 
 
 sss_9988,#genre#
-松視1歐美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松視4歐美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-香蕉台歐美版,http://live.redtraffic.xyz:80/milf.m3u8
-松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
-驚艷台歐美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-粉紅台歐美版,http://live.redtraffic.xyz:80/teen.m3u8
-潘多拉歐美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-玩美台歐美版,http://live.redtraffic.xyz:80/pov.m3u8
-
-松视1欧美版,https://b.gg155gg1.com/20250314/3QlyIDV0/index.m3u8
-松视2欧美版,https://b.gg155gg1.com/20250312/U9T4zANm/index.m3u8
-松视3欧美版,https://b.gg155gg1.com/20250310/IRM19kL6/index.m3u8
-松视4欧美版,https://b.gg155gg1.com/20250307/lZdFtJv1/index.m3u8
-松视5欧美版,https://b.gg155gg1.com/20250305/dWSUKeQD/index.m3u8
-松视6欧美版,https://b.gg155gg1.com/20250304/SJYjjUN9/index.m3u8
-松视8欧美版,https://b.gg155gg1.com/20250305/dWSUKeQD/index.m3u8
-松视9欧美版,https://b.gg155gg1.com/20250223/y0Xsxtiq/index.m3u8
-
-松视56欧美版,https://vip4.bbffsl.com/20250327/ND8ETASk/index.m3u8
-松视62欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视63欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视64欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-松视65欧美版,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-松视66欧美版,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-松视67欧美版,http://cdn.adultiptv.net/bigass.m3u8 
-松视68欧美版,http://cdn.adultiptv.net/blowjob.m3u8 
-松视69欧美版,http://cdn.adultiptv.net/latina.m3u8 
-松视70欧美版,http://cdn.adultiptv.net/fetish.m3u8 
-松视71欧美版,http://cdn.adultiptv.net/gay.m3u8 
-松视72欧美版,http://cdn.adultiptv.net/interracial.m3u8 
-松视73欧美版,http://cdn.adultiptv.net/threesome.m3u8 
-松视74欧美版,http://cdn.adultiptv.net/pornstar.m3u8 
-松视75欧美版,http://cdn.adultiptv.net/milf.m3u8 
-松视76欧美版,http://cdn.adultiptv.net/teen.m3u8 
-松视77欧美版,http://cdn.adultiptv.net/anal.m3u8
-松视78欧美版,http://cdn.adultiptv.net/asian.m3u8
-松视79欧美版,http://cdn.adultiptv.net/bigass.m3u8
-松视80欧美版,http://cdn.adultiptv.net/bigtits.m3u8
-松视81欧美版,http://cdn.adultiptv.net/blonde.m3u8
-松视82欧美版,http://cdn.adultiptv.net/blowjob.m3u8 
-松视83欧美版,http://cdn.adultiptv.net/brunette.m3u8
-松视84欧美版,http://cdn.adultiptv.net/compilation.m3u8
-松视85欧美版,http://cdn.adultiptv.net/cuckold.m3u8
-松视86欧美版,http://cdn.adultiptv.net/fetish.m3u8
-松视87欧美版,http://cdn.adultiptv.net/gangbang.m3u8
-松视88欧美版,http://cdn.adultiptv.net/gay.m3u8
-松视89欧美版,http://cdn.adultiptv.net/hardcore.m3u8
-松视90欧美版,http://cdn.adultiptv.net/interracial.m3u8
-松视91欧美版,http://cdn.adultiptv.net/latina.m3u8
-松视92欧美版,http://cdn.adultiptv.net/lesbian.m3u8
-松视93欧美版,http://cdn.adultiptv.net/livecams.m3u8
-松视94欧美版,http://cdn.adultiptv.net/milf.m3u8
-松视95欧美版,http://cdn.adultiptv.net/pornstar.m3u8
-松视96欧美版,http://cdn.adultiptv.net/pov.m3u8
-松视97欧美版,http://cdn.adultiptv.net/rough.m3u8
-松视98欧美版,http://cdn.adultiptv.net/russian.m3u8
-松视99欧美版,http://cdn.adultiptv.net/teen.m3u8
-松视100欧美版,http://cdn.adultiptv.net/brunette.m3u8
-松视102欧美版,http://cdn.adultiptv.net/bigtits.m3u8 
-松视103欧美版,http://cdn.adultiptv.net/rough.m3u8 
-松视104欧美版,http://cdn.adultiptv.net/brunette.m3u8 
-松视105欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视106欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视107欧美版,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-松视108欧美版,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-松视109欧美版,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-松视110欧美版,http://cdn.adultiptv.net/lesbian.m3u8
-松视111欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-松视112欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-松视113欧美版,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-松视114欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-松视115欧美版,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-松视116欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-松视117欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-
-松视57欧美版,https://vip4.bbffsl.com/20250325/M9uKCE6s/index.m3u8
-欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
-欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
-fluxuslust.m3u8
- 欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
- 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
-?fluxuslust.m3u8
- 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8
- 欧美版惊艳,http://live.redtraffic.xyz:80/cuckold.m3u8
- 欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8
-?fluxuslust.m3u8
- 欧美版惊艳,http://live.redtraffic.xyz/cuckold.m3u8
- 欧美版惊艳,http://cdn.adultiptv.net/cuckold.m3u8
- 欧美版松視1,http://live.redtraffic.xyz:80/interracial.m3u8
- 欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8
-?fluxuslust.m3u8
- 欧美版松視1,http://live.redtraffic.xyz/interracial.m3u8
- 欧美版松視1,http://cdn.adultiptv.net/interracial.m3u8
- 欧美媒松視2,http://live.redtraffic.xyz:80/fetish.m3u8
- 欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
-?fluxuslust.m3u8
- 欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
- 欧美媒松視2,http://cdn.adultiptv.net/fetish.m3u8
- 欧美媒松視2,http://live.redtraffic.xyz/fetish.m3u8
-fluxuslust.m3u8
- 欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8
-fluxuslust.m3u8
- 欧美版松視3,http://live.redtraffic.xyz:80/bigdick.m3u8
- 欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8
- 欧美版松視3,http://cdn.adultiptv.net/bigdick.m3u8
- 欧美版松視3,http://live.redtraffic.xyz/bigdick.m3u8
-?fluxuslust.m3u8
- 欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
-fluxuslust.m3u8
- 欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
-?fluxuslust.m3u8
- 欧美版松視4,http://live.redtraffic.xyz/latina.m3u8
- 欧美版松視4,http://cdn.adultiptv.net/latina.m3u8
- 欧美版一本道,http://live.redtraffic.xyz:80/bigass.m3u8
- 欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8
-?fluxuslust.m3u8
- 欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8
- 欧美版一本道,http://cdn.adultiptv.net/bigass.m3u8
- 欧美版一本道,http://live.redtraffic.xyz/bigass.m3u8
-fluxuslust.m3u8
- 欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
-fluxuslust.m3u8
- 欧美版二本道,http://live.redtraffic.xyz:80/blowjob.m3u8
- 欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
- 欧美版二本道,http://cdn.adultiptv.net/blowjob.m3u8
- 欧美版二本道,http://live.redtraffic.xyz/blowjob.m3u8
-?fluxuslust.m3u8
- 欧美版粉红,http://live.redtraffic.xyz:80/teen.m3u8
- 欧美版粉红,http://live.redtraffic.xyz/teen.m3u8
-?fluxuslust.m3u8
- 欧美版粉红,http://live.redtraffic.xyz/teen.m3u8
- 欧美版粉红,http://cdn.adultiptv.net/teen.m3u8
- 欧美版香蕉,http://live.redtraffic.xyz:80/milf.m3u8
- 欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8
-?fluxuslust.m3u8
- 欧美版香蕉,http://live.redtraffic.xyz/milf.m3u8
- 欧美版香蕉,http://cdn.adultiptv.net/milf.m3u8
- 欧美版玩美,http://live.redtraffic.xyz:80/pov.m3u8
- 欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
-fluxuslust.m3u8
- 欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
-?fluxuslust.m3u8
- 欧美版玩美,http://live.redtraffic.xyz/pov.m3u8
- 欧美版玩美,http://cdn.adultiptv.net/pov.m3u8
- 欧美版HOT,http://live.redtraffic.xyz:80/hardcore.m3u8
- 欧美版HOT,http://play.iptvxxx.net/hardcore.m3u8
- 欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8
-?fluxuslust.m3u8
- 欧美版HOT,http://cdn.adultiptv.net/hardcore.m3u8
- 欧美版HOT,http://live.redtraffic.xyz/hardcore.m3u8
- 欧美版彩虹,http://live.redtraffic.xyz:80/bigtits.m3u8
- 欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8
-?fluxuslust.m3u8
- 欧美版彩虹,http://live.redtraffic.xyz/bigtits.m3u8
- 欧美版潘多拉,http://live.redtraffic.xyz:80/pornstar.m3u8
- 欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8
-?fluxuslust.m3u8
- 欧美版潘多拉,http://live.redtraffic.xyz/pornstar.m3u8
- 欧美版潘多拉,http://cdn.adultiptv.net/pornstar.m3u8
- 欧美版现场,http://cdn.adultiptv.net/livecams.m3u8
- 欧美版现场,http://live.redtraffic.xyz/livecams.m3u8
- 欧美版大屌,http://cdn.adultiptv.net/rough.m3u8
- 欧美版大屌,http://live.redtraffic.xyz/rough.m3u8
- Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-欧美12[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-欧美2[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-
-Pandora,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-惊艳HD,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-松視-1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視-2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-花公子,http://190.14.10.19:16000/play/a045/index.m3u8
-LSE-4K,http://d029dcec.kazmazpaz.ru:80/iptv/54KGS8CCN6BZGC/6170/manifest.m3u8 
-
-PORNBOX:01,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159951
-PORNBOX:02,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159952
-PORNBOX:04,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159954
-PORNBOX:05,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159955
-PORNBOX:06,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159956
-PORNBOX:07,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159957
-PORNBOX:08,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
-PORNBOX:09,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159959
-PORNBOX:10,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159960
-
-AdultIPTV.net Live Cams,http://live.adultiptv.net/livecams.m3u8
-AdultIPTV.net MILF,http://live.adultiptv.net/milf.m3u8
-AdultIPTV.net Big Dick,http://live.adultiptv.net/bigdick.m3u8
-AdultIPTV.net Big Tits,http://live.adultiptv.net/bigtits.m3u8
-AdultIPTV.net Fetish,http://live.adultiptv.net/fetish.m3u8
-AdultIPTV.net Pornstar,http://live.adultiptv.net/pornstar.m3u8
-AdultIPTV.net Big Ass,http://live.adultiptv.net/bigass.m3u8
-AdultIPTV.net Interracial,http://live.adultiptv.net/interracial.m3u8
-AdultIPTV.net Latina,http://live.adultiptv.net/latina.m3u8
-AdultIPTV.net POV,http://live.adultiptv.net/pov.m3u8
-AdultIPTV.net Blowjob,http://live.adultiptv.net/blowjob.m3u8
-AdultIPTV.net Hardcore,http://live.adultiptv.net/hardcore.m3u8
-AdultIPTV.net Cuckold,http://live.adultiptv.net/cuckold.m3u8
-AdultIPTV.net Threesome,http://live.adultiptv.net/threesome.m3u8
-AdultIPTV.net Russian,http://live.adultiptv.net/russian.m3u8
-AdultIPTV.net Lesbian,http://live.adultiptv.net/lesbian.m3u8
-AdultIPTV.net Rough,http://live.adultiptv.net/rough.m3u8
-AdultIPTV.net Gangbang,http://live.adultiptv.net/gangbang.m3u8
-AdultIPTV.net Anal,http://live.adultiptv.net/anal.m3u8
-AdultIPTV.net Compilation,http://live.adultiptv.net/compilation.m3u8
-AdultIPTV.net Brunette,http://live.adultiptv.net/brunette.m3u8
-AdultIPTV.net Blonde,http://live.adultiptv.net/blonde.m3u8
-AdultIPTV.net Gay,http://live.adultiptv.net/gay.m3u8
-AdultIPTV.net Asian,http://live.adultiptv.net/asian.m3u8
