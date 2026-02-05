@@ -347,7 +347,7 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 555频限,#genre#
 中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
-中天新闻,http://156.238.248.80/ztxw.index.m3u8
+
 
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
@@ -1106,8 +1106,8 @@ CCTV17,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 青海卫视,http://tvtj1.jxwltx.com:8003/live1096.m3u8
 吉林卫视,http://tvtj1.jxwltx.com:8003/jlws.m3u8             
 
-
-
+搜索_5566,#genre#
+中天新闻,http://156.238.248.80/ztxw.index.m3u8
 
 
 
