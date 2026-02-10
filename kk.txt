@@ -515,20 +515,18 @@ Astro欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
 
 频推,#genre#
 Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVBPlus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9wia9K&tk=inWducl7RAaR
 Now体育台,http://hls.168.us.kg/u/630/master.m3u8
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
+Now新闻,http://cdn.163189.xyz/163189/now 
 
 
 
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
-无线翡翠,http://free.cnlive.club/channel/n7549189d.m3u8?q=111.170.171.148
 
 
 
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
-Now新闻,http://cdn.163189.xyz/163189/now 
 
 Plus综合,http://hls.168.us.kg/u/82/master.m3u8
 有线新闻,http://hls.168.us.kg/u/78/master.m3u8
@@ -564,48 +562,9 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Plus综合,http://hls.168.us.kg/u/82/master.m3u8
 
-凤凰中文,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YPrqeH&tk=inWducl7RAaR
-凤凰资讯,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=KHS4Ij&tk=inWducl7RAaR
-凤凰香港,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oJjN57&tk=inWducl7RAaR
-港台電視 31,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Obh4dt&tk=inWducl7RAaR
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j7vp2A&tk=inWducl7RAaR
-TVB Plus,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jxWqt8&tk=inWducl7RAaR
-無綫新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MCMnUN&tk=inWducl7RAaR
-明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eTNx6M&tk=inWducl7RAaR
-HOY 國際財經台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Inym11&tk=inWducl7RAaR
-HOY TV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XDzJ6c&tk=inWducl7RAaR
-HOY 資訊台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=loWJIz&tk=inWducl7RAaR
-ViuTVsix,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ronvIv&tk=inWducl7RAaR
-ViuTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FNoHsv&tk=inWducl7RAaR
-Now直播台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oMaW8w&tk=inWducl7RAaR
-Now新聞台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=zPwqou&tk=inWducl7RAaR
-Now財經台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i88oYz&tk=inWducl7RAaR
-NowSports,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3Pc9bu&tk=inWducl7RAaR
 
-华文卫视,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fQgTQj&tk=inWducl7RAaR
-1905电影,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JKPWmH&tk=inWducl7RAaR
-1905环球,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8ofuVF&tk=inWducl7RAaR
-重温经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jDvgFS&tk=inWducl7RAaR
-Y+剧场,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=L2uaj0&tk=inWducl7RAaR
-无线新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1att96&tk=inWducl7RAaR
-翡翠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lpNXwY&tk=inWducl7RAaR
-无线华丽台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YSqMZ2&tk=inWducl7RAaR
-明珠台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=56Njkj&tk=inWducl7RAaR
-星河,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=U0qks5&tk=inWducl7RAaR
-娱乐新闻台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MjbnUD&tk=inWducl7RAaR
-无线千禧台,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bdZ9xE&tk=inWducl7RAaR
-RTHK31,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XuXcqI&tk=inWducl7RAaR
-RTHK32,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QAFGnE&tk=inWducl7RAaR
-VIUTV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F84EI2&tk=inWducl7RAaR
-VIU6TV,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=D9zarb&tk=inWducl7RAaR
-美亚电影(香港),http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wjcSI0&tk=inWducl7RAaR
-天映频道,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0D80bx&tk=inWducl7RAaR
-天映经典,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WfUNpL&tk=inWducl7RAaR
-Astr爱奇艺,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=j51ln3&tk=inWducl7RAaR
-AstrQJ,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=UySDcB&tk=inWducl7RAaR
-AstrAoD,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jHWAkj&tk=inWducl7RAaR
-AeC,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Vw4Cd5&tk=inWducl7RAaR
-Astr,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iZcKfP&tk=inWducl7RAaR
+
+
 
 
 
@@ -616,14 +575,14 @@ Astr,http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iZcKfP&tk=inWducl7RAaR
 
 港频道,#genre#
 
-Now Sports 精選,http://hls.168.us.kg/u/630/master.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
-凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://rihou.cc:555/tv/[PL]无线新闻
+Plus综合,http://rihou.cc:555/tv/[SX]Plus综合
+凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
+凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
+凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
+无线新闻,http://rihou.cc:555/tv/[SX]无线新闻
+无线翡翠,http://rihou.cc:555/tv/[SX]无线翡翠
+Now Sports ,http://hls.168.us.kg/u/630/master.m3u8
+
 
 澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
 广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
@@ -654,72 +613,27 @@ SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
 
 
-
-TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线华丽国,http://php.jdshipin.com/PLTV/iptv.php?id=huali
-无线明珠粤,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
-无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
-无线星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
-无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-RTHK31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-AstroRio,http://php.jdshipin.com/PLTV/iptv.php?id=aod
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
-Astro AOD,http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-TVB星河3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+无线明珠,http://rihou.cc:555/tv/[SX]无线明珠
+无线千禧,http://rihou.cc:555/tv/[SX]无线千禧
+无线星河国,http://rihou.cc:555/tv/[SX]无线星河
+无线华丽国,http://rihou.cc:555/tv/[SX]无线华丽
+无线华丽国,http://rihou.cc:555/tv/[SX]无线丽华
+美亚电影国,http://rihou.cc:555/tv/[SX]美亚电影
+天映频道国,http://rihou.cc:555/tv/[SX]天映频道
+天映经典粤,http://rihou.cc:555/tv/[SX]天映经典
+RTHK-31,http://rihou.cc:555/tv/[SX]RTHK-31
+RTHK-32,http://rihou.cc:555/tv/[SX]RTHK-32
+VIUTV'粤,http://rihou.cc:555/tv/[SX]VIUTV粤
+VIUTV'英,http://rihou.cc:555/tv/[SX]VIUTV英
+Astroaod,http://rihou.cc:555/tv/[SX]Astroaod
+AstroAec,http://rihou.cc:555/tv/[SX]AstroAec
+Astro_QJ,http://rihou.cc:555/tv/[SX]Astro_QJ
+Astro爱奇,http://rihou.cc:555/tv/[SX]Astro爱奇
+Astro欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
+八度空间,http://rihou.cc:555/tv/[SX]八度空间
 
 
-TVB Plus,http://rihou.cc:555/tv/[PL]Plus综合
-TVB Plus,http://rihou.cc:555/tv/[PL]Plus综贰
 
-有线综合,http://rihou.cc:555/tv/[PL]有线综合
-有线综合国,http://rihou.cc:555/tv/[PL]有线综国
-无线翡翠4k,http://rihou.cc:555/tv/[PL]无线翡4k
-无线翡翠高,http://rihou.cc:555/tv/[PL]无线翡翠
-无线翡翠高,http://rihou.cc:555/tv/[PL]无线翡高
-无线翡翠标,http://rihou.cc:555/tv/[PL]无线翡标
-无线华丽国,http://rihou.cc:555/tv/[PL]无线华丽
-无线明珠粤,http://rihou.cc:555/tv/[PL]无线明珠
-无线明珠标,http://rihou.cc:555/tv/[PL]无线明标
-无线北美,http://rihou.cc:555/tv/[PL]无线北美
-无线娱乐,http://rihou.cc:555/tv/[PL]无线娱乐
-无线星河,http://rihou.cc:555/tv/[PL]无线星河
-无线星河,http://rihou.cc:555/tv/[PL]无线星贰
-无线功夫,http://rihou.cc:555/tv/[PL]无线功夫
-无线千禧,http://rihou.cc:555/tv/[PL]无线千禧
-VIUTV'粤,http://rihou.cc:555/tv/[PL]VIUTV粤
-RTHK-31,http://rihou.cc:555/tv/[PL]RTHK-31
-RTHK-32,http://rihou.cc:555/tv/[PL]RTHK-32
-Astroaod,http://rihou.cc:555/tv/[PL]Astroaod
-澳门MaC,http://rihou.cc:555/tv/[PL]澳门MaC
-澳视澳门,http://rihou.cc:555/tv/[PL]澳视澳门
 
 
 
@@ -781,71 +695,7 @@ Astroaod,http://rihou.cc:555/tv/[PL]Astroaod
 咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
 咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
 
-马来频道,#genre#
-Astro AEC,http://hls.sohu.blog/my.php?id=1
-Al-Hijrah,http://hls.sohu.blog/my.php?id=2
-Animal Planet (Eng),http://hls.sohu.blog/my.php?id=3
-AOD,http://hls.sohu.blog/my.php?id=4
-Astro Awani,http://hls.sohu.blog/my.php?id=5
-Astro Ceria,http://hls.sohu.blog/my.php?id=6
-Astro Citra,http://hls.sohu.blog/my.php?id=7
-Astrol Kplus,http://hls.sohu.blog/my.php?id=8
-Astro LOL,http://hls.sohu.blog/my.php?id=9
-Astro MTV,http://hls.sohu.blog/my.php?id=10
-Astro Oasis,http://hls.sohu.blog/my.php?id=11
-Astro Prima,http://hls.sohu.blog/my.php?id=12
-Astro QJ,http://hls.sohu.blog/my.php?id=13
-Astro Ria,http://hls.sohu.blog/my.php?id=14
-Astro Ria-3,http://hls.sohu.blog/my.php?id=15
-Astro Rusi,http://hls.sohu.blog/my.php?id=16
-Aura,http://hls.sohu.blog/my.php?id=17
-Axn HD,http://hls.sohu.blog/my.php?id=18
-BBC World News,http://hls.sohu.blog/my.php?id=19
-Bernama,http://hls.sohu.blog/my.php?id=20
-Bloomberg News,http://hls.sohu.blog/my.php?id=21
-Celestial Classic,http://hls.sohu.blog/my.php?id=22
-Celestial Movies HD,http://hls.sohu.blog/my.php?id=23
-CNA,http://hls.sohu.blog/my.php?id=24
-CNBC,http://hls.sohu.blog/my.php?id=25
-Awesome TV,http://hls.sohu.blog/my.php?id=26
-Dreamworks,http://hls.sohu.blog/my.php?id=27
-Foodnetwork Hd,http://hls.sohu.blog/my.php?id=28
-HGTV,http://hls.sohu.blog/my.php?id=29
-HBO HD,http://hls.sohu.blog/my.php?id=30
-HBO Family,http://hls.sohu.blog/my.php?id=31
-HBO Hits,http://hls.sohu.blog/my.php?id=32
-HBO Signature,http://hls.sohu.blog/my.php?id=33
-Hua Hee Tai欢喜台,http://hls.sohu.blog/my.php?id=34
-iQiyi,http://hls.sohu.blog/my.php?id=35
-Nick Jr,http://hls.sohu.blog/my.php?id=36
-Nickelodeon,http://hls.sohu.blog/my.php?id=37
-NTV7,http://hls.sohu.blog/my.php?id=38
-Paramount Network,http://hls.sohu.blog/my.php?id=39
-Quran,http://hls.sohu.blog/my.php?id=40
-Rania,http://hls.sohu.blog/my.php?id=41
-Rock Actions,http://hls.sohu.blog/my.php?id=42
-Rock Entertainment,http://hls.sohu.blog/my.php?id=43
-RTM Asean,http://hls.sohu.blog/my.php?id=44
-Sensasi,http://hls.sohu.blog/my.php?id=45
-Sony HD,http://hls.sohu.blog/my.php?id=46
-Siar,http://hls.sohu.blog/my.php?id=47
-Showcase,http://hls.sohu.blog/my.php?id=48
-Sunnah,http://hls.sohu.blog/my.php?id=49
-TLC,http://hls.sohu.blog/my.php?id=50
-TV1,http://hls.sohu.blog/my.php?id=51
-TV2,http://hls.sohu.blog/my.php?id=52
-TV3,http://hls.sohu.blog/my.php?id=53
-TV3 SD,http://hls.sohu.blog/my.php?id=54
-TV5,http://hls.sohu.blog/my.php?id=55
-8TV八度空间,http://hls.sohu.blog/my.php?id=56
-V9,http://hls.sohu.blog/my.php?id=57
-TvN,http://hls.sohu.blog/my.php?id=58
-TVB Asia,http://hls.sohu.blog/my.php?id=59
-TVB Classic,http://hls.sohu.blog/my.php?id=60
-TVB Entertainment,http://hls.sohu.blog/my.php?id=61
-Wah Lai Toi华丽台,http://hls.sohu.blog/my.php?id=62
-WION,http://hls.sohu.blog/my.php?id=63
-Xing He,http://hls.sohu.blog/my.php?id=64
+
 
 
 海外TV,#genre#
