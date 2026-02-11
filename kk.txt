@@ -185,6 +185,8 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 江苏卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+广东卫视4K,http://115.190.252.60/gdtouch.php?id=1198
+广东卫视4K,http://115.190.252.60/gdtouch.php?id=2567
 广东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 深圳卫视4k,http://tv.sohu.blog/proxy/hls/szws4k.m3u8
 深圳卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
