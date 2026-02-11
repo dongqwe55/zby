@@ -164,7 +164,8 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 卫视频道,#genre#
 快乐垂钓,http://cards.imwork.net:15893/udp/239.3.1.164:8001
-快乐垂钓,http://182.35.193.14:1234/961930263
+快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
+快乐垂钓,http://zj-zb-dx.sohu.blog:4000/rtp/233.50.200.123:5140
 快乐垂钓,http://14.103.143.203:5006/961930263
 
 快乐垂钓,http://115.190.255.140:1234/961930263
@@ -172,26 +173,26 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 四海钓鱼,http://182.35.193.14:1234/637444975
 四海钓鱼,http://14.103.143.203:5006/637444975
 
-
-
+北京卫视4K,http://9.zubo.cc.cd/bjlt.php?id=21
+北京卫视4K,http://bj.sohu.blog/btime.php?id=bjws4k
 北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+东方卫视4K,http://115.29.208.41/3.php?channel_id=1
 东方卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+浙江卫视4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 浙江卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视4K,http://tv.sohu.blog/proxy/jstv.php?id=jsws4k
 江苏卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
 广东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4k,http://tv.sohu.blog/proxy/hls/szws4k.m3u8
 深圳卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 山东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+四川卫视4K,http://115.29.208.41/sctv.php?id=10
 四川卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-东方卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-浙江卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
 湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8       
-广东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-山东卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-四川卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+
 深圳卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.254:4056
 北京卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.226:4056
 广东卫视4K,http://jiangxun.sendsmtp.com:40222/udp/239.81.0.252:4056
@@ -346,6 +347,9 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 福建东南卫视,http://61.184.46.85:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 
 广东地方,#genre#
+深圳卫视,http://tv.sohu.blog/d/fjbst.php?id=187
+深圳卫视,http://tv.sohu.blog/proxy/hls/szws.m3u8
+深圳卫视,http://115.190.252.60/gdtouch.php?id=1206
 深圳卫视,http://gd.sohu.blog/hls/szws.m3u8
 深圳卫视,http://115.190.252.60/gdtouch.php?id=1206
 深圳卫视4k,http://gd.sohu.blog/hls/szws4k.m3u8 
@@ -413,6 +417,17 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 555频限,#genre#
 中天新闻欣赏,http://rihou.cc:555/tv/[Hv]中天新聞
+凤凰中文,http://116.77.239.26:44300/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+凤凰中文,http://111.221.137.155:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰中文,http://115.190.252.60:17173/fh.php?id=fhzw
+凤凰中文,http://zj-zb-dx.sohu.blog:4000/rtp/233.50.202.35:5140
+凤凰中文,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://36.36.200.196:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+
+凤凰资讯,http://115.190.252.60:17173/fh.php?id=fhzx
+凤凰资讯,http://zj-zb-dx.sohu.blog:4000/rtp/233.50.202.36:5140
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 Plus综合,http://rihou.cc:555/tv/[Pd]Plus综合
