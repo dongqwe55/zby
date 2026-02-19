@@ -1136,7 +1136,6 @@ CCTV17,http://tvtj.jxwltx.com:8003/cctv17.m3u8
 吉林卫视,http://tvtj1.jxwltx.com:8003/jlws.m3u8             
 
 搜索_5566,#genre#
-中天新闻,http://156.238.248.80/ztxw.index.m3u8
 
 
 
