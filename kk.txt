@@ -32,7 +32,34 @@
 
 👉央视频道💓,#genre#
 
-
+CCTV01,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+CCTV01,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226705/1.m3u8
+CCTV01,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
+CCTV01,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
+CCTV01,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226694/1.m3u8
+CCTV02,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
+CCTV03,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
+CCTV04,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
+CCTV05,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
+CCTV5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
+CCTV06,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
+CCTV07,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
+CCTV07,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226948/1.m3u8
+CCTV07,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226984/1.m3u8
+CCTV08,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
+CCTV09,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
+CCTV09,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226657/1.m3u8
+CCTV10,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
+CCTV11,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
+CCTV12,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
+CCTV12,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226748/1.m3u8
+CCTV13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
+CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
+CCTV14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226663/1.m3u8
+CCTV15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
+CCTV16,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
+CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
+CCTV17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226727/1.m3u8
 
 CCTV01,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV02,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
@@ -56,23 +83,7 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 
-CCTV01,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV02,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV03,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV04,http://23.237.228.134/live5/CCTV4.m3u8
-CCTV05,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
-CCTV6,http://23.237.228.134/live5/CCTV6.m3u8
-CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV11,http://23.237.228.134/live3/CCTV11.m3u8
-CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV13,http://23.237.228.134/live3/CCTV13.m3u8
-CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
-CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
-CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+
 
 
 
@@ -165,11 +176,11 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 卫视频道,#genre#
 快乐垂钓,http://cards.imwork.net:15893/udp/239.3.1.164:8001
 快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
-快乐垂钓,http://zj-zb-dx.sohu.blog:4000/rtp/233.50.200.123:5140
+快乐垂钓,http://120.24.195.228:3000/961930263
 快乐垂钓,http://14.103.143.203:5006/961930263
 
 快乐垂钓,http://115.190.255.140:1234/961930263
-四海钓鱼,http://115.190.255.140:1234/637444975
+四海钓鱼,http://120.24.195.228:3000/637444975
 四海钓鱼,http://182.35.193.14:1234/637444975
 四海钓鱼,http://14.103.143.203:5006/637444975
 
@@ -228,37 +239,7 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 新疆卫视,http://39.152.103.17:8089/tsfile/live/1087_1.m3u8
 黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
 
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
-东方卫视,http://23.237.228.134/live3/dongfang.m3u8
-江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
-湖南卫视,http://23.237.228.134/live6/hunan.m3u8
-浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
-深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
-东南卫视,http://23.237.228.134/live6/dongnan.m3u8
-广东卫视,http://23.237.228.134/live6/guangdong.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
-湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-四川卫视,http://23.237.228.134/live6/sichuan.m3u8
-河南卫视,http://23.237.228.134/live6/henan.m3u8
-海南卫视,http://23.237.228.134/live6/hainan.m3u8
-黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
-重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
-贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
-内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-吉林卫视,http://23.237.228.134/live8/jilin.m3u8
-辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
-天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-安徽卫视,http://23.237.228.134/live8/anhui.m3u8
-陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
-河北卫视,http://23.237.228.134/live8/hebei.m3u8
-甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
 
 
 
@@ -469,7 +450,6 @@ TVB星河,http://43.251.226.110:8100/mytv.php?url=http://v2h.veryfast.filegear-s
 
 
 555频限,#genre#
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 
