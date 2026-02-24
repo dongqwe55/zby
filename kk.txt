@@ -459,7 +459,98 @@ TVB星河,http://43.251.226.110:8100/mytv.php?url=http://v2h.veryfast.filegear-s
 重温经典,http://43.251.226.110:8100/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
 八度空间,http://43.251.226.110:8100/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
 
+咪咕频道,#genre#
+至臻视4k,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226991/1.m3u8
+咪咕音4k,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226969/1.m3u8
+睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226988/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226966/1.m3u8
+睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226994/1.m3u8
+羊睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226965/1.m3u8
+睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226930/1.m3u8
+睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226992/1.m3u8
+睛彩广场,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226933/1.m3u8
 
+咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
+咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
+咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
+咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1
+咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1
+咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1
+咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1
+咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1
+咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1
+咪咕直播10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1
+咪咕直播11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1
+咪咕直播12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1
+咪咕直播13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1
+咪咕直播14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1
+咪咕直播15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1
+咪咕直播16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1
+咪咕直播17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1
+咪咕直播18,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1
+咪咕直播19,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1
+咪咕直播20,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1
+咪咕直播21,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1
+咪咕直播23,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1
+咪咕直播24,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1
+咪咕直播26,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1
+咪咕直播28,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1
+咪咕直播29,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
+咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
+
+咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
+咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3%24
+咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3%24
+咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3%24
+咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3%24
+咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3%24
+咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3%24
+咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
+咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
+
+体育频限,#genre#
+CCTV5,http://115.190.252.60:20508/sports.php?id=cctv5
+CCTV5+,http://115.190.252.60:20508/sports.php?id=cctv5plus
+CCTV奥林匹克频道,http://115.190.252.60:20508/sports.php?id=cctv16
+CCTV高尔夫,http://115.190.252.60:20508/sports.php?id=cctvgle
+CCTV央视台球,http://115.190.252.60:20508/sports.php?id=cctvtq
+天元围棋,http://115.190.252.60:20508/sports.php?id=tywq
+北京体育休闲,http://115.190.252.60:20508/sports.php?id=bjty
+五星体育,http://115.190.252.60:20508/sports.php?id=wxty
+劲爆体育,http://115.190.252.60:20508/sports.php?id=jbty
+天津体育,http://115.190.252.60:20508/sports.php?id=tjty
+广东体育,http://115.190.252.60:20508/sports.php?id=gdty
+江苏体育休闲,http://115.190.252.60:20508/sports.php?id=jsty
+福建文体频道,http://115.190.252.60:20508/sports.php?id=fjwt
+山东体育休闲,http://115.190.252.60:20508/sports.php?id=sdty
+山西文体生活,http://115.190.252.60:20508/sports.php?id=sxwt
+陕西体育休闲,http://115.190.252.60:20508/sports.php?id=shxty
+辽宁体育休闲,http://115.190.252.60:20508/sports.php?id=lnty
+内蒙古文体娱乐,http://115.190.252.60:20508/sports.php?id=nmgwt
+新疆体育健康,http://115.190.252.60:20508/sports.php?id=xjty
+88跑马台,http://115.190.252.60:20508/sports.php?id=88pm
+澳门体育,http://115.190.252.60:20508/sports.php?id=amty
+JSport 1,http://115.190.252.60:20508/sports.php?id=j1
+JSport 2,http://115.190.252.60:20508/sports.php?id=j2
+JSport 3,http://115.190.252.60:20508/sports.php?id=j3
+JSport 4,http://115.190.252.60:20508/sports.php?id=j4
+Gaora Sports,http://115.190.252.60:20508/sports.php?id=gaora
+Fighting TV Samurai,http://115.190.252.60:20508/sports.php?id=figthing
+Sport Live Plus,http://115.190.252.60:20508/sports.php?id=live
+TVRI Sport,http://115.190.252.60:20508/sports.php?id=tvri
+Tennis Channel Germany,http://115.190.252.60:20508/sports.php?id=tcg
+World of Freesports,http://115.190.252.60:20508/sports.php?id=wof
+FOX体育台,http://115.190.252.60:20508/sports.php?id=fox
+PFL职业格斗,http://115.190.252.60:20508/sports.php?id=pfl
+PAC 12 Insider,http://115.190.252.60:20508/sports.php?id=pac12
+Horizon Sports,http://115.190.252.60:20508/sports.php?id=jorizon
+Red Bull TV,http://115.190.252.60:20508/sports.php?id=redbull
+Trace Sports,http://115.190.252.60:20508/sports.php?id=trace
+World Poker Tour,http://115.190.252.60:20508/sports.php?id=wpt
+Automotion,http://115.190.252.60:20508/sports.php?id=automotion
 
 555频限,#genre#
 中天新闻,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUn1weg9EIn8Xrh84byOMHltVE9N3WLtuC0KGqQoCGF3mOm0TSLdgPjhBprmGB4zyqQzA-hlku7ywqIzpIxD2NPouLpCdDfVvqCGLQHOouS1wFJfKeirbr0BNlIEcSWPoxar79xDEZh18C4Q3EZzV308KVQo0L5GaZ9n1h-yns8FSMwsfu2dThB5qEdAcL_EJ3eRscWGZ_PGZT3xHdBjigUA.m3u8?u=1756878715
@@ -585,6 +676,8 @@ Astro欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
 
 频推,#genre#
 Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+88跑马台,http://115.190.252.60:20508/sports.php?id=88pm
+
 Now体育台,http://hls.168.us.kg/u/630/master.m3u8
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 Now新闻,http://cdn.163189.xyz/163189/now 
@@ -819,57 +912,7 @@ CINEMAX,http://148.113.160.49:14200
 
 
 
-咪咕频道,#genre#
-至臻视4k,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226991/1.m3u8
-咪咕音4k,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
-睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226870/1.m3u8
-睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226969/1.m3u8
-睛彩竞技,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226988/1.m3u8
-睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226952/1.m3u8
-睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226966/1.m3u8
-睛彩篮球,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226994/1.m3u8
-羊睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226965/1.m3u8
-睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226930/1.m3u8
-睛彩青少,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226992/1.m3u8
-睛彩广场,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226933/1.m3u8
 
-咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=toShengfen&mode=1
-咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=toShengfen&mode=1
-咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=toShengfen&mode=1
-咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=toShengfen&mode=1
-咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=toShengfen&mode=1
-咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=toShengfen&mode=1
-咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=toShengfen&mode=1
-咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=toShengfen&mode=1
-咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=toShengfen&mode=1
-咪咕直播10,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=toShengfen&mode=1
-咪咕直播11,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=toShengfen&mode=1
-咪咕直播12,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=toShengfen&mode=1
-咪咕直播13,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=toShengfen&mode=1
-咪咕直播14,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=toShengfen&mode=1
-咪咕直播15,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=toShengfen&mode=1
-咪咕直播16,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=toShengfen&mode=1
-咪咕直播17,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=toShengfen&mode=1
-咪咕直播18,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=toShengfen&mode=1
-咪咕直播19,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=toShengfen&mode=1
-咪咕直播20,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=toShengfen&mode=1
-咪咕直播21,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=toShengfen&mode=1
-咪咕直播23,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=toShengfen&mode=1
-咪咕直播24,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=toShengfen&mode=1
-咪咕直播26,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=toShengfen&mode=1
-咪咕直播28,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=toShengfen&mode=1
-咪咕直播29,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=toShengfen&mode=1
-咪咕直播30,http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=toShengfen&mode=1
-
-咪咕直播1,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3%24
-咪咕直播2,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=3%24
-咪咕直播3,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3%24
-咪咕直播4,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3%24
-咪咕直播5,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3%24
-咪咕直播6,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3%24
-咪咕直播7,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3%24
-咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
-咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
 
 
 
