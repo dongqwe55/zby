@@ -677,16 +677,16 @@ Astro欢喜,http://rihou.cc:555/tv/[SX]Astro欢喜
 频推,#genre#
 Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 88跑马台,http://115.190.252.60:20508/sports.php?id=88pm
-
+88跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv 
 Now体育台,http://hls.168.us.kg/u/630/master.m3u8
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 Now新闻,http://cdn.163189.xyz/163189/now 
-
+TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
 
 
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 
-
+凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
 
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 翡翠剧集,https://6.cdn.loc.cc/163189.php?id=tvbd
