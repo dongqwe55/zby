@@ -687,6 +687,9 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 Now新闻,http://cdn.163189.xyz/163189/now 
 TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
 
+半岛电视台 ,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+半岛电视台 ,https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
+半岛电视台 ,https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
 
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 
@@ -751,33 +754,43 @@ Plus综合,http://rihou.cc:555/tv/[SX]Plus综合
 Now Sports ,http://hls.168.us.kg/u/630/master.m3u8
 
 
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-广东珠江,http://iptv.4666888.xyz/iptv2A.php?id=19
-广东体育,http://iptv.4666888.xyz/iptv2A.php?id=20
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
-无线娱乐,http://iptv.4666888.xyz/iptv2A.php?id=36
-无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=22
-无线1_美,http://iptv.4666888.xyz/iptv2A.php?id=25
-无线J1美,http://iptv.4666888.xyz/iptv2A.php?id=26
-无线翡剧,http://iptv.4666888.xyz/iptv2A.php?id=33
-有线综合,http://iptv.4666888.xyz/iptv2A.php?id=35
-RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
-tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
-纬来电影,http://iptv.4666888.xyz/iptv2A.php?id=40
-东森电影,http://iptv.4666888.xyz/iptv2A.php?id=48
-民视闽南,http://iptv.4666888.xyz/iptv2A.php?id=55
-民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-民视综艺,http://iptv.4666888.xyz/iptv2A.php?id=46
-中视经典,http://iptv.4666888.xyz/iptv2A.php?id=54
-华艺中文,http://iptv.4666888.xyz/iptv2A.php?id=37
-八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
-JET-综合,http://iptv.4666888.xyz/iptv2A.php?id=51
-rock娱乐,http://iptv.4666888.xyz/iptv2A.php?id=50
-EYE-戏剧,http://iptv.4666888.xyz/iptv2A.php?id=56
-SPOTV-1,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV-2,http://iptv.4666888.xyz/iptv2A.php?id=1
-Football-,http://iptv.4666888.xyz/iptv2A.php?id=4
+澳视澳门FYtv,http://iptv.4666888.xyz/iptv2A.php?id=41
+广东珠江FYtv,http://iptv.4666888.xyz/iptv2A.php?id=19
+广东体育FYtv,http://iptv.4666888.xyz/iptv2A.php?id=20
+凤凰中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=27
+有线新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=31
+无线翡翠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=34
+无线华丽FYtv,http://iptv.4666888.xyz/iptv2A.php?id=28
+无线明珠FYtv,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=36
+无线千禧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=22
+无线1_美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=25
+无线J1美FYtv,http://iptv.4666888.xyz/iptv2A.php?id=26
+无线翡剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=33
+有线综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=35
+美亚电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=30
+RTHK-31FYtv,http://iptv.4666888.xyz/iptv2A.php?id=23
+tvbs新闻FYtv,http://iptv.4666888.xyz/iptv2A.php?id=43
+纬来电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=40
+龙华电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=45
+东森电影FYtv,http://iptv.4666888.xyz/iptv2A.php?id=48
+民视闽南FYtv,http://iptv.4666888.xyz/iptv2A.php?id=55
+民视影剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=53
+民视综艺FYtv,http://iptv.4666888.xyz/iptv2A.php?id=46
+中视经典FYtv,http://iptv.4666888.xyz/iptv2A.php?id=54
+非凡商业FYtv,http://iptv.4666888.xyz/iptv2A.php?id=44
+华艺中文FYtv,http://iptv.4666888.xyz/iptv2A.php?id=37
+博运动壹FYtv,http://iptv.4666888.xyz/iptv2A.php?id=6
+八度空间FYtv,http://iptv.4666888.xyz/iptv2A.php?id=52
+爱奇艺综FYtv,http://iptv.4666888.xyz/iptv2A.php?id=21
+JET-综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=51
+ELta综合FYtv,http://iptv.4666888.xyz/iptv2A.php?id=49
+rock娱乐FYtv,http://iptv.4666888.xyz/iptv2A.php?id=50
+EYE-戏剧FYtv,http://iptv.4666888.xyz/iptv2A.php?id=56
+wwe格斗FYtv,http://iptv.4666888.xyz/iptv2A.php?id=5
+SPOTV-1FYtv,http://iptv.4666888.xyz/iptv2A.php?id=2
+SPOTV-2FYtv,http://iptv.4666888.xyz/iptv2A.php?id=1
+Football-FYtv,http://iptv.4666888.xyz/iptv2A.php?id=4
 
 
 无线明珠,http://rihou.cc:555/tv/[SX]无线明珠
