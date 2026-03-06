@@ -197,6 +197,18 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 四海钓鱼,http://182.35.193.14:1234/637444975
 四海钓鱼,http://14.103.143.203:5006/637444975
 
+北京卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.226:4056
+北京卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.225:4056
+东方卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.76:4056
+广东卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.252:4056
+深圳卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.254:4056
+湖南卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.72:4056
+山东卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.78:4056
+四川卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.80:4056
+浙江卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.75:4056
+江苏卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.73:4056
+华数电影4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.123:4056
+
 北京卫视4K,http://9.zubo.cc.cd/bjlt.php?id=21
 北京卫视4K,http://bj.sohu.blog/btime.php?id=bjws4k
 北京卫视4k,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
