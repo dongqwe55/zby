@@ -188,18 +188,17 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 
 卫视频道,#genre#
+快乐垂钓,http://111.8.242.102:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://111.8.242.103:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
-快乐垂钓,http://121.29.215.157:2083/rtp/239.253.93.213:6391
 快乐垂钓,http://cards.imwork.net:15893/udp/239.3.1.164:8001
 快乐垂钓,http://180.173.123.115:9902/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://39.165.39.49:85/tsfile/live/1115_1.m3u8?key=txiptv&playlive=0&authid=0
 快乐垂钓,http://111.8.242.102:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://111.8.242.103:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓HD,http://219.139.231.239:10001/rtp/239.69.1.142:10488
-
 快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
-快乐垂钓,http://120.24.195.228:3000/961930263
-快乐垂钓,http://14.103.143.203:5006/961930263
 
 
 凤凰中文台HD,http://219.139.231.239:10001/rtp/239.69.2.20:11274
@@ -212,17 +211,6 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 四海钓鱼,http://182.35.193.14:1234/637444975
 四海钓鱼,http://14.103.143.203:5006/637444975
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-北京卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.226:4056
-北京卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.225:4056
-东方卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.76:4056
-广东卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.252:4056
-深圳卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.254:4056
-湖南卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.72:4056
-山东卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.78:4056
-四川卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.80:4056
-浙江卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.75:4056
-江苏卫视4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.73:4056
-华数电影4K,http://gx-zb-dx.sohu.blog:10099/rtp/239.81.0.123:4056
 
 北京卫视4K,http://9.zubo.cc.cd/bjlt.php?id=21
 北京卫视4K,http://bj.sohu.blog/btime.php?id=bjws4k
@@ -798,7 +786,6 @@ TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
 半岛电视台 ,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 半岛电视台 ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89034.ts
 
-FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 
 凤凰资讯,http://pull-vivek.speedws.com/live/aaafhzx.flv
@@ -854,12 +841,9 @@ Plus综合,http://hls.168.us.kg/u/82/master.m3u8
 港频道,#genre#
 
 Plus综合,http://rihou.cc:555/tv/[SX]Plus综合
-凤凰中文,http://rihou.cc:555/tv/[SX]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[SX]凤凰资讯
-凤凰香港,http://rihou.cc:555/tv/[SX]凤凰香港
 无线新闻,http://rihou.cc:555/tv/[SX]无线新闻
 无线翡翠,http://rihou.cc:555/tv/[SX]无线翡翠
-Now Sports ,http://hls.168.us.kg/u/630/master.m3u8
 
 
 澳视澳门FYtv,http://iptv.4666888.xyz/iptv2A.php?id=41
