@@ -220,8 +220,6 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
 
 
-凤凰中文台HD,http://219.139.231.239:10001/rtp/239.69.2.20:11274
-凤凰资讯台HD,http://219.139.231.239:10001/rtp/239.69.2.19:11268
 
 四海钓鱼,http://219.139.231.239:10001/rtp/239.69.1.244:11106
 四海钓鱼,http://182.35.193.14:1234/637444975
@@ -942,12 +940,13 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 Now新闻,http://cdn.163189.xyz/163189/now 
 TVB PLUS,http://pull-vivek.speedws.com/live/aaaplus.flv
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半岛电视台 ,https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
-半岛电视台 ,https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-半岛电视台 ,https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
-半岛电视台 ,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-半岛电视台 ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89034.ts
-
+半岛电视 ,https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+半岛电视 ,https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+半岛电视 ,https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+半岛电视 ,https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+半岛电视 ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/89034.ts
+凤凰中文,http://118.248.201.11:8889/udp/239.76.246.134:1234
+凤凰资讯,http://118.248.201.11:8889/udp/239.76.246.135:1234
 无线新闻,http://free.cnlive.club/channel/n3fad9608.m3u8?q=111.170.171.148
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
