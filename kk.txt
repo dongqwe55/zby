@@ -207,21 +207,18 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 
 
 卫视频道,#genre#
-快乐垂钓,http://111.8.242.102:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://111.8.242.103:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 
-快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
+快乐垂钓,http://121.19.134.202:808/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+快乐垂钓,http://114.254.76.186:4022/rtp/239.3.1.164:8001
 快乐垂钓,http://cards.imwork.net:15893/udp/239.3.1.164:8001
 快乐垂钓,http://180.173.123.115:9902/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://39.165.39.49:85/tsfile/live/1115_1.m3u8?key=txiptv&playlive=0&authid=0
-快乐垂钓,http://111.8.242.102:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓,http://111.8.242.103:9999/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
-快乐垂钓HD,http://219.139.231.239:10001/rtp/239.69.1.142:10488
+快乐垂钓,http://180.173.123.115:9902/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,http://39.106.167.36:52666/hunmgtv.php?id=218
 
 
 
-四海钓鱼,http://219.139.231.239:10001/rtp/239.69.1.244:11106
+四海钓鱼,http://112.132.10.54:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 四海钓鱼,http://182.35.193.14:1234/637444975
 
 
