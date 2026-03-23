@@ -806,6 +806,8 @@ TVB星河,http://156.238.248.80:8100/mytv.php?url=http://v2h.veryfast.filegear-s
 
 
 555频限,#genre#
+中天新聞,https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.php
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
 
