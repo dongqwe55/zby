@@ -18,9 +18,9 @@
 
      
            {
-      "name": "小米",
+      "name": "宝盒",
       "type": 0,
-      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
+      "url": "https://3043.kstore.space/bhvip/bh/bh2.json",
       "playerType": 1,
  
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
