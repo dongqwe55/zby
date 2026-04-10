@@ -893,7 +893,36 @@ RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
 邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
 邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
 
-
+极速港台,#genre#
+HOY资讯台,http://cdn.163189.xyz/163189/hoy78
+HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
+CCTV13,http://cdn3.163189.xyz/163189/cctv13
+海峡卫视,http://cdn3.163189.xyz/163189/hxws
+八度空间,http://cdn6.163189.xyz/163189/8tv
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+CH5,http://cdn6.163189.xyz/163189/ch5
+CH8,http://cdn6.163189.xyz/163189/ch8
+CHU,http://cdn6.163189.xyz/163189/chu
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+NOW新闻台,https://cdn.163189.xyz/163189/now
+天映频道(新加坡),https://cdn10.163189.xyz/stream/163189/typd/
+TVB星河国语,https://cdn10.163189.xyz/stream/163189/xinghe/
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
+明珠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=mzt
+Astro AOD,https://php.jdshipin.com:2096/TVOD/iptv.php?id=aod
+澳视卫星,https://php.jdshipin.com:2096/TVOD/iptv.php?id=as
+澳视澳门,https://php.jdshipin.com:2096/TVOD/iptv.php?id=asam
+重温经典,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cwjd
+翡翠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=fct2
 
 
 
