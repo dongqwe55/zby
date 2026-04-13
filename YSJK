@@ -37,12 +37,12 @@
       "url": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
       "name": "短剧合集"
     }, 
- {   "name": "欧歌家庭线路",   
-        "url": "https://xn--xiix-rp5imh.v.nxog.top/apitv.php?id=3"    },  
+ {   "name": "小米",   
+        "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"    },  
 
    
    {   "name": "OK杰克",   
-        "url": "http://ok321.top/tv"    },  
+        "url": "http://ok213.top/tv"    },  
 
   
     {   "name": "南风",    
@@ -53,7 +53,6 @@
     {   "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", 
         "name": "少儿频道"    },  
 
-     {   "name": "小盒子4k",   
-        "url": "http://xhztv.top/4k.json"    }   ]}
+      ]}
 
     
