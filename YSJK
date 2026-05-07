@@ -13,14 +13,16 @@
             }, 
     {   "name": "牛二(中文top)",   
         "url": "http://tvbox.王二小放牛娃.top"    },  
-     
+   {   "name": "摸鱼主用",   
+        "url": "http://我不是.摸鱼儿.top"    },  
+   
     
 
      
            {
-      "name": "宝",
+      "name": "潇洒接口",
       "type": 0,
-      "url": "https://raw.giteeusercontent.com/lv-xiangyang/yingshi/raw/master/%E6%96%B0%E5%A2%9E2.json?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiLmlrDlop4yLmpzb24iLCJwaWQiOjQ3NTg2Mzc4LCJzdG8iOiJnaXQtc2hhcmRpbmctc3RvLTQydC0wMTQiLCJycCI6InJlcG9zLzE5L2NiLzE5Y2JhODQ3ZDJmNjBlZTFmYTE4NDczYzcwMjIxNzk5NWZlMTkxYTE3NjI1NzRjYTk0N2Y0YWU5MWIxZmJhMGEuZ2l0IiwiaXNwIjp0cnVlLCJleHBpcmVfYXQiOjE3NzgwODY4MDB9&signature=pm4T0nSEnRgCS6QAGxF6On91m7jtrQBKGTbP98nXosk",
+      "url": "https://9877.kstore.space/AnotherD/api.json",
       "playerType": 1,
  
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -29,8 +31,8 @@
      {   "name": "巧技",   
         "url": "http://cdn.qiaoji8.com/tvbox.json"    },  
       
- {   "name": "摸鱼",   
-        "url": "http://我不是.摸鱼儿.top"    },  
+ {   "name": "凯速备用",   
+        "url": "https://6800.kstore.vip/fish.json"    },  
 
      
     {
