@@ -13,8 +13,8 @@
             }, 
     {   "name": "牛二(中文top)",   
         "url": "http://tvbox.王二小放牛娃.top"    },  
-   {   "name": "摸鱼主用",   
-        "url": "http://我不是.摸鱼儿.top"    },  
+   {   "name": "摸鱼备用",   
+        "url": "http://www.小不点.com"    },  
    
     
 
@@ -28,11 +28,7 @@
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-     {   "name": "巧技",   
-        "url": "http://cdn.qiaoji8.com/tvbox.json"    },  
-      
- {   "name": "凯速备用",   
-        "url": "https://6800.kstore.vip/fish.json"    },  
+    
 
      
     {
@@ -43,12 +39,9 @@
         "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json"    },  
 
    
-   {   "name": "运营",   
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json"    },  
-
+ 
   
-    {   "name": "南风",    
-        "url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"    }, 
+   
     {   "name": "东哥自用",    
         "url": "https://tvbox.catvod.com/catvod.json"    }, 
   
