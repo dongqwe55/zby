@@ -1,6 +1,6 @@
 {  "urls": [    
      {   "name": "饭太硬",   
-        "url": "http://www.xn--sss604efuw,art/" ,
+        "url": "http://www.xn--sss604efuw.net/tv/" ,
          "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
         
