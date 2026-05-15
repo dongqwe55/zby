@@ -30,40 +30,7 @@
             "type": 3,
             "api": "csp_LocalFile"
         },
-        {
-      "key": "jarcai",
-      "name": "文才|弹幕",
-      "type": 3,
-      "api": "csp_Wcai",
-      "ext": "https://www.jxshdzs.com/"
-    }, 
-     {
-      "key": "bilibili",
-      "name": " 🅱‍哔哩NEW合集🅱‍",
-      "type": 3,
-      "api": "csp_WexNewBiLiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-    },   
-      {
-      "key": "bili",
-      "name": "🅱哔哔┃合集🅱",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-      }
-    },    
+      
      {
             "key": "csp_Wwys",
             "name": "壹米┃蓝光",
@@ -170,60 +137,8 @@
             "timeout": 25
         },
 
-{
-    "key": "tianshen",
-    "name": "天神┃4K弹幕",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 1,
-    "ext": {
-        "site": [
-            "https://www.tianshenpan.top",
-            "https://tianshenpan.fun",
-            "https://ts666.xyz"
-        ]
-    },
-    "timeout": 25
-},
-{
-    "key": "junge",
-    "name": "俊哥┃4K专线",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 1,
-    "ext": {
-        "site": [
-            "https://www.jungepan.cc",
-            "https://jungepan.top",
-            "https://jg888.fun"
-        ]
-    },
-    "timeout": 25
-},
 
-{
-    "key": "mengtu",
-    "name": "梦途┃4K影院",
-    "type": 3,
-    "api": "csp_PanWebShare",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 1,
-    "ext": {
-        "site": [
-            "https://mengtupan.cc",
-            "https://mt4k.fun"
-        ]
-    },
-    "timeout": 25
-},
+
 
 {
     "key": "zhizhenxin",
@@ -370,100 +285,8 @@
             "searchable": 1,
             "filterable": 1
         },
-        {
-            "key": "MqTv",
-            "name": "麻雀｜影视",
-            "type": 3,
-            "api": "csp_MqTv",
-            "searchable": 1,
-            "ext": "https://www.mqtv.cc"
-        },
-      
+   
 
-
-
-
-{
-    "key": "hongguo",
-    "name": "红果┃短剧全量",
-    "type": 3,
-    "api": "csp_Hongguo",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "genre": "shortdrama",
-    "timeout": 25
-},
-{
-    "key": "haima",
-    "name": "海马┃短剧专属",
-    "type": 3,
-    "api": "csp_Haima",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "genre": "shortdrama",
-    "timeout": 25
-},
-{
-    "key": "duanjuheji",
-    "name": "短剧┃合集大全",
-    "type": 3,
-    "api": "csp_DuanJuHeji",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "genre": "shortdrama",
-    "timeout": 30
-},
-{
-    "key": "kuaishouduanju",
-    "name": "快手┃短剧同步",
-    "type": 3,
-    "api": "csp_KuaiShouDJ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "genre": "shortdrama",
-    "timeout": 25
-},
-
-
-
-
-
-
-
-{
-    "key": "yinghua",
-    "name": "樱花┃4K动漫",
-    "type": 3,
-    "api": "csp_YingHuaDM",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
-{
-    "key": "jiongcinyuan",
-    "name": "囧次元┃动漫",
-    "type": 3,
-    "api": "csp_JiongCY",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
-{
-    "key": "zimuzu",
-    "name": "字幕组┃动漫",
-    "type": 3,
-    "api": "csp_ZiMuZu",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
 {
     "key": "bilibiman",
     "name": "B站┃动漫合集",
@@ -473,21 +296,11 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": {
-        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/BILIDM.json",
+        "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/anime/json/BIfj.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
     },
     "timeout": 30
 },
-{
-    "key": "dongmanheji",
-    "name": "动漫┃4K合集",
-    "type": 3,
-    "api": "csp_DMHeji",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
 
 
 
@@ -495,46 +308,11 @@
 
 
 
-{
-    "key": "cilixiong",
-    "name": "磁力熊┃4K原盘",
-    "type": 3,
-    "api": "csp_CiLiXiong",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
-{
-    "key": "pianba",
-    "name": "片吧┃4K蓝光",
-    "type": 3,
-    "api": "csp_PianBa",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
-{
-    "key": "meijutt",
-    "name": "美剧天堂┃4K",
-    "type": 3,
-    "api": "csp_MeiJuTT",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
-{
-    "key": "hanjutv",
-    "name": "韩剧TV┃4K",
-    "type": 3,
-    "api": "csp_HanJuTV",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "timeout": 30
-},
+
+
+
+
+
         {
             "key": "蜡笔",
             "name": "蜡笔┃4K弹幕",
@@ -612,39 +390,8 @@
             },
             "timeout": 25
         },
-        {
-            "key": "闪电",
-            "name": "快速┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://shandian.blog",
-                    "https://sd.sduc.site"
-                ]
-            },
-            "timeout": 25
-        },
-        {
-            "key": "清影",
-            "name": "观影┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareQY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "http://www.revohd.com"
-                ]
-            },
-            "timeout": 30
-        },
+        
+      
         {
             "key": "人人",
             "name": "人人┃4K弹幕",
@@ -1290,22 +1037,7 @@
             "type": 3,
             "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/webcast/py/BLZB.py"
         },
-        {
-      "key": "哔哔合集",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
-      }
-    },
+       
         
        {
             "key": "哔哩合集",
