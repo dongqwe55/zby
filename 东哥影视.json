@@ -30,7 +30,24 @@
             "type": 3,
             "api": "csp_LocalFile"
         },
+      
         {
+      "key": "立播",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "siteUrl": "https://www.libvio.run"
+      }
+    }, 
+        
+        
+     {
             "key": "csp_Wwys",
             "name": "壹米┃蓝光",
             "type": 3,
@@ -1482,23 +1499,22 @@
             "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/webcast/py/BLZB.py"
         },
         {
-            "key": "哔哩合集",
-            "name": "哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/BLHJ.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            }
-        },
+      "key": "哔哔合集",
+      "name": "🅱哔哔合集┃弹幕",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+      }
+    },
+        
         {
             "key": "哔哩哔哩演唱会",
             "name": "哔哩┃音乐",
