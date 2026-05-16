@@ -11,19 +11,18 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-        {
-      "key": "网盘配置",
-      "name": "网盘及彈幕配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./lib/tokenm.json",
-      "style": {
-        "type": "rect",
-         "ratio": 1.597
-      }
-       
+       {
+            "key": "配置中心",
+            "name": "配置┃中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
         },
         {
             "key": "本地",
