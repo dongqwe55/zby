@@ -11,34 +11,18 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-         {
-      "key": "Doubanaaa",
-      "name": "网盘类先扫码",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-    },
-    {
-      "key": "Wexconfig",
-      "name": "通用类型┃配置中心",
+        {
+      "key": "网盘配置",
+      "name": "网盘及彈幕配置",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0
-    },
-    {
-      "key": "Wexokconfig",
-      "name": "影视专用┃配置中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0
-    },
+      "ext": "./lib/tokenm.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
         {
             "key": "配置中心",
             "name": "配置┃中心",
