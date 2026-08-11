@@ -620,10 +620,95 @@ CCTV5+,http://61.184.46.85:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&auth
 咪咕直播8,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3%24
 咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
 
+IptvHome频道,#genre#
+
+
+天映經典 (粵) CCM CH203 (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/67.m3u8
+天映經典 (國) CCM CH203 (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/68.m3u8
+天映頻道 (粵) CM (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/124.m3u8
+天映頻道 (國) CM (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/125.m3u8
+
+TVB 功夫台 (國) (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/119.m3u8
+
+
+TVB 功夫台 (粵) (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/118.m3u8
+
+Hub 娱家 VV Drama (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/605.m3u8
+Hub 都会台 ECity (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/606.m3u8
+
+E乐台 E-Le (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/604.m3u8
+佳乐台 Jia Le (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/603.m3u8
+如意台 RUYI (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/721.m3u8
+
+TVB 星河 (國) (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/121.m3u8
+TVB 星河 (粵) (HK),http://iptvpro.pw:35451/live/9169458555/2882972111/120.m3u8
+
+
+
+Hub Sports 1 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/633.m3u8
+Hub Sports 2 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/634.m3u8
+Hub Sports 3 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/635.m3u8
+Hub Sports 4 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/636.m3u8
+Hub Sports 5 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/637.m3u8
+Hub Premier 1 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/638.m3u8
+Hub Premier 2 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/639.m3u8
+Hub Premier 3 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/640.m3u8
+Hub Premier 4 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/641.m3u8
+Hub Premier 5 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/642.m3u8
+Hub Premier 6 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/643.m3u8
+EUROSPORT (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/646.m3u8
+Fight Sports (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/645.m3u8
+Channel 5 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/598.m3u8
+Channel 8 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/599.m3u8
+Channel U(SG),http://iptvpro.pw:35451/live/9169458555/2882972111/600.m3u8
+Suria (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/601.m3u8
+Vasantham (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/602.m3u8
+
+HBO(SG),http://iptvpro.pw:35451/live/9169458555/2882972111/610.m3u8
+HBO Signature(SG),http://iptvpro.pw:35451/live/9169458555/2882972111/611.m3u8
+HBO Family(SG),http://iptvpro.pw:35451/live/9169458555/2882972111/612.m3u8
+HBO Hits(SG),http://iptvpro.pw:35451/live/9169458555/2882972111/613.m3u8
+Cinemax (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/614.m3u8
+Cinema One Global (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/617.m3u8
+CM+天映频道 (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/616.m3u8
+天映频道 Celestial Movies (SG),http://iptvpro.pw:35451/live/9169458555/2882972111/609.m3u8
 
 
 
 极速港澳,#genre#
+
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+澳视卫星,http://r.jdshipin.com/QFhCq
+澳视澳门,http://r.jdshipin.com/n2YZI
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
+翡翠台,http://r.jdshipin.com/GeWKr
+明珠台,http://r.jdshipin.com/ZQ4kN
+无线新闻,http://r.jdshipin.com/CkuBd
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+明珠台,http://r.jdshipin.com/jUx8K
+华丽翡翠台,http://r.jdshipin.com/thuYX
+TVB星河,http://r.jdshipin.com/sXuuD
+ViuTV,http://r.jdshipin.com/vSJvl
+HOY TV,http://r.jdshipin.com/sFw4S
+广东体育,http://r.jdshipin.com/LiYdg
+广东珠江,http://r.jdshipin.com/sE5vO
+TVB Plus,http://r.jdshipin.com/ndGgS
+翡翠台,http://r.jdshipin.com/62WM7
+ViuTV,http://r.jdshipin.com/TcKr2
+广州综合,http://r.jdshipin.com/iR6Gq
+广州综合,http://r.jdshipin.com/snhya
+海峡卫视,http://r.jdshipin.com/WtYt3
+广州南国都市,http://r.jdshipin.com/nWaZO
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
+龙华电影,http://iptv.4666888.xyz/iptv2A.php?id=45
+
+
 无线新闻台,http://c.123.rr.kg/163189/wxxw
 HOY TV,http://c.123.rr.kg/163189/hoy
 凤凰中文,http://c.123.rr.kg/163189/fhzw
